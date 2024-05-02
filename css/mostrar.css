@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #cfe2f3; /* Azul claro */
+    background-color: #2ae449; /* Azul claro */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -70,7 +70,7 @@ body {
 }
 
 #pay-button {
-    background-color: #3498db;
+    background-color: #d80ec7;
     color: #fff;
     border: none;
     border-radius: 3px;
